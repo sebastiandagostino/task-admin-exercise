@@ -1,0 +1,11 @@
+target/
+bin/
+node_modules/
+src/main/resources/static/built/
+.idea
+.settings
+.project
+.classpath
+*.iml
+*.log
+*~
